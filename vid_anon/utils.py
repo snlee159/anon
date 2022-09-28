@@ -1,7 +1,7 @@
 from cmath import rect
 import numpy as np
 import cv2
-from scipy.spatial import ConvexHull
+from scipy.spatial import ConvexHull 
 
 def get_output(file, split_dir, output_dir):
     """

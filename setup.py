@@ -30,4 +30,4 @@ setup(
     keywords ='video python package snlee anonymization anon',
     install_requires = requirements,
     zip_safe = False
-)
+) 

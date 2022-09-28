@@ -8,7 +8,7 @@ import speech_recognition as sr
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 from nltk.tag import pos_tag
-from vosk import Model, KaldiRecognizer
+from vosk import Model, KaldiRecognizer 
 
 def get_audio(file, audio_file):
     """

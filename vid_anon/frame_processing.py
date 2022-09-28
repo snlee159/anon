@@ -6,7 +6,7 @@ import os
 import subprocess
 from .utils import find_and_blur_pts
 from datetime import datetime as dt
-from datetime import timedelta as td
+from datetime import timedelta as td 
 
 def load_mp():
     """
